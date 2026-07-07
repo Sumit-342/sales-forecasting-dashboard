@@ -8,9 +8,8 @@
 
 ## 🚀 Interactive Dashboard
 
-<p align="center">
+<p>
   <a href="https://sales-forecasting-dashboard-sumit.streamlit.app/" target="_blank">
-    🔗 Open Sales Forecasting Dashboard
   </a>
 </p>
 
