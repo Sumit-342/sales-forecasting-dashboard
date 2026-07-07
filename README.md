@@ -42,19 +42,35 @@ https://github.com/Sumit-342/sales-forecasting-dashboard
 
 ## 📈 Forecast Explorer
 
-> *(Insert Screenshot)*
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnfkkxlvi/image/upload/v1783448222/forecast-explorer_euxawv.png" width="100%">
+</p>
+
 
 ---
 
 ## 🚨 Anomaly Report
 
-> *(Insert Screenshot)*
+
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnfkkxlvi/image/upload/v1783448224/anomaly-report_uoqur0.png" width="100%">
+</p>
+
 
 ---
 
 ## 📦 Product Demand Segments
 
-> *(Insert Screenshot)*
+
+<p align="center">
+  <img src="## 🏠 Sales Overview
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnfkkxlvi/image/upload/v1783448223/sales-overview_iwgc9u.png" width="100%">
+</p>
+
 
 ---
 
