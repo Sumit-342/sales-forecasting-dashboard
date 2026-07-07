@@ -6,9 +6,14 @@
 
 ## 🌐 Live Demo
 
-🚀 **Interactive Dashboard**
+## 🚀 Interactive Dashboard
 
-https://sales-forecasting-dashboard-sumit.streamlit.app/
+<p align="center">
+  <a href="https://sales-forecasting-dashboard-sumit.streamlit.app/" target="_blank">
+    🔗 Open Sales Forecasting Dashboard
+  </a>
+</p>
+
 
 📂 **GitHub Repository**
 
