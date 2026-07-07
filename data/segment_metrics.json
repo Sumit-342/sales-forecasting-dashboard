@@ -1,0 +1,30 @@
+{
+  "Furniture": {
+    "mae": 1804.19,
+    "rmse": 2343.87
+  },
+  "Technology": {
+    "mae": 3811.0,
+    "rmse": 4649.29
+  },
+  "Office Supplies": {
+    "mae": 3210.88,
+    "rmse": 4202.12
+  },
+  "West": {
+    "mae": 2368.85,
+    "rmse": 2877.13
+  },
+  "East": {
+    "mae": 3394.18,
+    "rmse": 4663.3
+  },
+  "Central": {
+    "mae": 2684.18,
+    "rmse": 3699.79
+  },
+  "South": {
+    "mae": 3343.35,
+    "rmse": 4604.85
+  }
+}

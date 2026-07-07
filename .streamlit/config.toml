@@ -1,0 +1,12 @@
+# Theme tokens for native Streamlit widgets (multiselect chips, sliders,
+# radios, checkboxes, focus rings). Streamlit paints these with inline
+# styles derived from [theme], so this is the only reliable way to move
+# them off the default red onto the app's blue/cyan palette — CSS alone
+# cannot override them consistently across versions.
+[theme]
+base = "dark"
+primaryColor = "#3B82F6"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#141C33"
+textColor = "#E7ECF5"
+font = "sans serif"

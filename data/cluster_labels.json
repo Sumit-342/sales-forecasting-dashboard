@@ -1,0 +1,18 @@
+{
+  "0": {
+    "name": "High-Value Premium Products",
+    "strategy": "Maintain moderate inventory levels. These products generate high revenue per sale but are purchased less frequently, so avoid overstocking while ensuring availability."
+  },
+  "1": {
+    "name": "Low Volume, Stable Demand",
+    "strategy": "Keep minimum but consistent inventory. Demand is predictable but relatively low, making these products suitable for routine replenishment."
+  },
+  "2": {
+    "name": "High Volume, Stable Demand",
+    "strategy": "Maintain high inventory levels with regular restocking. These products consistently contribute significant sales and should rarely be out of stock."
+  },
+  "3": {
+    "name": "Rapidly Growing Demand",
+    "strategy": "Closely monitor demand trends and gradually increase inventory. Since demand is growing rapidly, forecasting should be updated frequently to avoid shortages or overstocking."
+  }
+}

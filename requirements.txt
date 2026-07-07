@@ -7,6 +7,6 @@ statsmodels
 prophet
 xgboost
 streamlit
-plotly
+plotly>=5.22
 joblib
 pmdarima
