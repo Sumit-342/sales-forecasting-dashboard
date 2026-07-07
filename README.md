@@ -34,8 +34,8 @@ https://github.com/Sumit-342/sales-forecasting-dashboard
 
 ## 🏠 Sales Overview
 
-> <p align = "center">
-    <img src = "https://res.cloudinary.com/dnfkkxlvi/image/upload/v1783448223/sales-overview_iwgc9u.png" width = "100%">
+<p align="center">
+  <img src="https://res.cloudinary.com/dnfkkxlvi/image/upload/v1783448223/sales-overview_iwgc9u.png" width="100%">
 </p>
 
 ---
