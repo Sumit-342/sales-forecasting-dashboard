@@ -14,7 +14,7 @@ st.set_page_config(
 )
 inject_css()
 
-# ---- sidebar brand block (shown above the nav on every page) ----
+# ---- sidebar brand block ----
 with st.sidebar:
     st.markdown(
         """
@@ -95,9 +95,7 @@ def render_overview():
         )
 
 
-# ---- explicit navigation: fixes the "app" sidebar title and any
-# mojibake from filename-based page labels, since titles are now typed
-# directly in source rather than inferred from emoji filenames ----
+
 overview_page = st.Page(render_overview, title="Sales Overview", icon="📊", default=True, url_path="overview")
 forecast_page = st.Page("pages/1_Forecast_Explorer.py", title="Forecast Explorer", icon="📈", url_path="forecast-explorer")
 anomaly_page = st.Page("pages/2_Anomaly_Report.py", title="Anomaly Report", icon="🚨", url_path="anomaly-report")

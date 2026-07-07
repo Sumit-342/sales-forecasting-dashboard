@@ -14,8 +14,7 @@ def inject_css():
 
 
 def page_hero(eyebrow: str, title: str, description: str = ""):
-    # Presentation-only cleanup: strips a trailing "· PAGE n" segment so the
-    # hero eyebrow reads as a clean section label (no logic/data affected).
+
     eyebrow = re.sub(r"\s*[·•]\s*PAGE\s*\d+\s*", "", eyebrow, flags=re.IGNORECASE).strip()
     st.markdown(
         f"""
