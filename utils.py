@@ -69,7 +69,7 @@ def panel_end():
     st.markdown("</div>", unsafe_allow_html=True)
 
 
-# ---------------- data loaders (cached) ----------------
+# ---------------- data loaders  ----------------
 
 @st.cache_data
 def load_sales_df():

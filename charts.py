@@ -28,10 +28,7 @@ def sales_by_year_bar(sales_df: pd.DataFrame):
     )
     fig.update_traces(marker_cornerradius=8)
     apply_dark_layout(fig, height=340, legend=False)
-    # NOTE: previously `title=None` was passed here. Plotly treats an explicit
-    # None as "set the title to null" (not "leave unset"), and Plotly.js then
-    # renders that null title as the literal text "undefined" next to the
-    # axis. Simply not passing `title` at all leaves it correctly blank.
+ 
     fig.update_yaxes(tickprefix="$", tickformat=",.0f")
     return fig
 
